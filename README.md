@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**MahmoudRashed2505/MahmoudRashed2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Creating automation scripts
+- 🌱 I’m currently learning python and javascript
+- 👯 I’m looking to collaborate on building an opensource project from scratch
+- 🤔 I’m looking for help with improving the way of writing code
+- 💬 Ask me about anything
+<!--- - 📫 How to reach me: ... --->
+<!--- - 😄 Pronouns: ... --->
+- ⚡ Fun fact: My friends always say that i look like a lot of Disney Characters 😄
+
