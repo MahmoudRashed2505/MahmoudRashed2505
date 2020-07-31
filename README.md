@@ -11,3 +11,4 @@
 <!--- - 📫 How to reach me: ... --->
 <!--- - 😄 Pronouns: ... --->
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudRashed2505)](https://github.com/anuraghazra/github-readme-stats)
