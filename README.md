@@ -36,8 +36,7 @@
 [<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin] 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />][linkedin]
 
-
-<br />
+<br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudRashed2505&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
