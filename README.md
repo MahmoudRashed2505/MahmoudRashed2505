@@ -2,8 +2,8 @@
 
 ## I'm a Student, and I am in love with anything related to Tech 
 
-- 🔭 I’m currently working on Creating automation scripts 
-- 🌱 I’m currently learning python and javascript
+- 🔭 I’m currently working on Creating automation scriptsو Cross Platform Mobile Application 
+- 🌱 I’m currently learning python and Dart(Flutter)
 - 👯 I’m looking to collaborate on building an opensource project from scratch 
 - 🤔 I’m looking for help with improving the way of writing code 
 - 💬 Ask me about anything 
